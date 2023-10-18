@@ -1,3 +1,4 @@
+
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import {Dashboard,Register,Landing,Error} from './pages'
 
